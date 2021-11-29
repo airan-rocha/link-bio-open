@@ -88,10 +88,10 @@ table {
 }
 #cards {
     width: 100%;
-    background-color: azure;
+    margin-bottom: 10px;
 }
 .card{
-    background-color: rgba(0, 0, 0, 0.096);
+    background-color: #c2e4d8;
     width: 49%;
     display: inline-block;
     margin-bottom: 10px;
