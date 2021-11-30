@@ -21,7 +21,7 @@ const redeSocial = [
     },
     {
         name: 'whatsapp',
-        url: 'https://web.whatsapp.com/send?l=pt-BR&phone=+55',
+        url: 'http://wa.me/55',
         logoUrl: 'https://cdn-icons-png.flaticon.com/512/124/124034.png'
     },
     
